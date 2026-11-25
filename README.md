@@ -58,8 +58,8 @@ In Ubuntu, keep the project in your Linux home directory for better WSL performa
 
 ```bash
 cd ~
-git clone https://github.com/qwlsx/mm24blog.git
-cd mm24blog
+git clone https://github.com/qwlsx/ta24bblog.git
+cd ta24bblog
 ```
 
 Open the project in VS Code from this Ubuntu terminal:
@@ -72,7 +72,7 @@ The VS Code window should show `WSL: Ubuntu`. Use its Ubuntu terminal for all re
 
 ## 3. Install project dependencies
 
-From the `mm24blog` directory, install the PHP packages from `composer.lock` and the frontend packages from `bun.lock`:
+From the `ta24bblog` directory, install the PHP packages from `composer.lock` and the frontend packages from `bun.lock`:
 
 ```bash
 composer install
