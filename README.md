@@ -1,4 +1,4 @@
-# mm24blog
+# ta24bblog
 
 A Laravel 13 blog project. This guide sets up the application from a fresh computer using SQLite and Bun. The recommended Windows workflow uses Ubuntu in WSL 2, which keeps PHP, Composer, and Bun in the same environment.
 
